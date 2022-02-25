@@ -1,0 +1,1 @@
+scoreboard objectives add dc_throw_trident minecraft.used:minecraft.trident "Throw Trident"

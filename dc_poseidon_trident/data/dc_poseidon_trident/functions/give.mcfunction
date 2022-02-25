@@ -1,0 +1,1 @@
+give @s minecraft:trident{PoseidonTrident:1b}
